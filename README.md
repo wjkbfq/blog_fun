@@ -1,2 +1,2 @@
 # blog_fun
-justhave fun
+just have fun
